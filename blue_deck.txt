@@ -1,22 +1,34 @@
 // NAME: Teferi, Timeless Voyager - Core Set 2021 Planeswalker Deck
 // URL: http://mtg.wtf/deck/m21/teferi-timeless-voyager
 // DATE: 2020-07-03
+
+// Planeswalker
 1 Teferi, Timeless Voyager
-1 Stormwing Entity
+
+// Creatures
 2 Teferi's Wavecaster
+1 Stormwing Entity
 3 Faerie Vandal
-2 Jeskai Elder
-2 Tome Anima
-2 Shipwreck Dowser
-3 Historian of Zhalfir
-4 Mystic Skyfish
-2 Gust of Wind
-1 Stern Dismissal
+2 Jeskai Elder          // LOW VALUE
+2 Tome Anima            // LOW VALUE
+3 Historian of Zhalfir  // LOW VALUE
+3 Mystic Skyfish        // LOW VALUE
+
+// Draw
 4 Frantic Inventory
 3 Opt
 2 Mantle of Tides
 1 Teferi's Ageless Insight
-2 Charmed Sleep
-24 Island
-1 Island
+
+// Anti-creature
+1 Charmed Sleep
+2 Gust of Wind
+1 Essence Scatter
+1 Stern Dismissal
+1 Spontaneous Mutation
+1 Dramatic Reversal
+
+// Land
+25 Island
+
 
