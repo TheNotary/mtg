@@ -13,11 +13,11 @@
 2 Tome Anima            // LOW VALUE
 3 Historian of Zhalfir  // LOW VALUE
 3 Mystic Skyfish        // LOW VALUE
+3 Grazilaxx, Illithid Scholar
 
 // Draw
 4 Frantic Inventory
 3 Opt
-2 Mantle of Tides
 1 Teferi's Ageless Insight
 
 // Anti-creature
