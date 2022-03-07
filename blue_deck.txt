@@ -2,33 +2,67 @@
 // URL: http://mtg.wtf/deck/m21/teferi-timeless-voyager
 // DATE: 2020-07-03
 
+// THEMES
+//
+// Draw cards to:
+//   - Draw additional cards per Teferi's Ageless Insight and such
+//   - Use card draws to Buff Faerie Vandal's
+//   - Play wizards to draw cards for each wizard you control
+
 // Planeswalker
 1 Teferi, Timeless Voyager
 
 // Creatures
 2 Teferi's Wavecaster
-1 Stormwing Entity
 3 Faerie Vandal
-2 Jeskai Elder          // LOW VALUE
-2 Tome Anima            // LOW VALUE
+1 Faerie Vandal
+1 Lymirth, Desert Doom
+2 riptide director
 3 Historian of Zhalfir  // LOW VALUE
-3 Mystic Skyfish        // LOW VALUE
+4 Bazaar Trademage
 3 Grazilaxx, Illithid Scholar
 
 // Draw
-4 Frantic Inventory
-3 Opt
-1 Teferi's Ageless Insight
+3 Cosmos Elixirs
+2 Teferi's Ageless Insight
+2 Read the Runes
+2 Treasure Chest
 
-// Anti-creature
-1 Charmed Sleep
-2 Gust of Wind
-1 Essence Scatter
+// Anti-creature (-2 due to gust of wind...)
 1 Stern Dismissal
 1 Spontaneous Mutation
-1 Dramatic Reversal
+4 counterspell
 
 // Land
 25 Island
 
+
+// TO ADD LIST:
+
+// x Cryptic Command (pay 4 for multi-choice)
+// x blue sun's zenith (pay 3, draw x cards)
+// x Hypnotic Sprite (2/1 for 2, or counterspell for 3)
+// x bag of holding (draw card artifact)
+// x (r) cosmos elixir (pay 4 to gain 2 life or draw)
+// 1 (c) Blink of an Eye (return creature to owner's hand, and draw), trade out stern dismissal
+// 1 (u) Aetherize (pay 4 return all attacking creatures), trade out S
+// 4 (u) Rewind (counter spell for 4, untap 4)
+// 4 (u) Memorial of Genius (blue land, sac to draw 2 cards), trade out 4 basic lands
+// 1 (r) Baral, Chief of Compliance (1/3 for 3, draw a card when you counterspell)
+// x (r) Aetherflux Reservoir (gain life for casting spells)
+// x (u) Elixir of Immortality (gain life and put graveyard in lib)
+// x (u) Azure Mage (1/1 with pay to draw)
+
+
+// EBAY
+
+
+
+// Proxied
+
+// - replace 1 charmed sleep with counter
+// - replace 1 frantic inventory with counter
+// - replace 1 dramatic reversal with counter
+// - replace 1 essence scatter with counter
+// - replace 1 Jeskai Elder with Faerie Vandal
 
