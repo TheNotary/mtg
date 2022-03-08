@@ -16,7 +16,7 @@
 2 Teferi's Wavecaster
 3 Faerie Vandal
 1 Faerie Vandal
-1 Iymirth, Desert Doom
+1 Iymrith, Desert Doom
 2 riptide director
 3 Historian of Zhalfir  // LOW VALUE
 4 Bazaar Trademage
