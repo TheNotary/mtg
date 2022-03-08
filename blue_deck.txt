@@ -16,14 +16,14 @@
 2 Teferi's Wavecaster
 3 Faerie Vandal
 1 Faerie Vandal
-1 Lymirth, Desert Doom
+1 Iymirth, Desert Doom
 2 riptide director
 3 Historian of Zhalfir  // LOW VALUE
 4 Bazaar Trademage
 3 Grazilaxx, Illithid Scholar
 
 // Draw
-3 Cosmos Elixirs
+3 Cosmos Elixir
 2 Teferi's Ageless Insight
 2 Read the Runes
 2 Treasure Chest
