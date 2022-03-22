@@ -15,18 +15,17 @@
 // Creatures
 2 Teferi's Wavecaster
 3 Faerie Vandal
-1 Faerie Vandal
+1 Faerie Vandal   // replace with Docent of Perfection?
 1 Iymrith, Desert Doom
-2 riptide director
-3 Historian of Zhalfir  // LOW VALUE
+4 Sage of Fables
 4 Bazaar Trademage
 3 Grazilaxx, Illithid Scholar
 
 // Draw
 3 Cosmos Elixir
+1 Alhammarret's Archive
 2 Teferi's Ageless Insight
-2 Read the Runes
-2 Treasure Chest
+4 Treasure Chest
 
 // Anti-creature (-2 due to gust of wind...)
 1 Stern Dismissal
@@ -52,6 +51,18 @@
 // x (r) Aetherflux Reservoir (gain life for casting spells)
 // x (u) Elixir of Immortality (gain life and put graveyard in lib)
 // x (u) Azure Mage (1/1 with pay to draw)
+
+// 1 The Magic Mirror
+
+
+// ON THE FENCE:
+
+// 2 (r) Read the Runes
+
+
+// removed
+// 3 riptide director
+// 3 Historian of Zhalfir  // Docent of Perfection
 
 
 // EBAY
